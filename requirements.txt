@@ -1,7 +1,8 @@
-tensorflow
+tensorflow-cpu
 numpy
 opencv-python
 matplotlib
 flask
 pillow
+gunicorn
 
