@@ -42,9 +42,11 @@ cd Lemon
 Create a virtual environment (optional but recommended):
 
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Then install dependencies:
+
 pip install -r requirements.txt
 
 
@@ -53,6 +55,7 @@ pip install -r requirements.txt
 This project uses Git LFS for large files like the trained model:
 
 git lfs install
+
 git lfs pull
 
 
