@@ -30,11 +30,6 @@ To give you a quick overview of how the app works, I’ve created a demonstratio
 
 Additionally, I am actively working on hosting the app on a cloud platform to make it even easier to access. 
 
-## Frontend
-
-![Example Image](images/Lemontreehealthchecker.png)
-![Example Image](images/predictionresult.png)
-
 ## How to run the website:
 
 1. Clone the Repository
