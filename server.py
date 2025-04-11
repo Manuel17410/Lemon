@@ -5,6 +5,9 @@ import numpy as np
 from io import BytesIO
 import os
 
+# Suppress TensorFlow logs
+tf.get_logger().setLevel('ERROR')
+
 # Disable GPU usage
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
@@ -65,6 +68,7 @@ def predict():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
 
