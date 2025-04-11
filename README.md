@@ -32,14 +32,13 @@ Additionally, I am actively working on hosting the app on a cloud platform to ma
 
 ## How to run the website:
 
-1. Clone the Repository
+1. Clone the Repository:
    
 git clone https://github.com/Manuel17410/Lemon-Leaf-Disease-Classification-A-CNN-Powered-WebApp-in-Docker
 
 cd Lemon
 
 2. Install Requirements
-
 Create a virtual environment (optional but recommended):
 
 python -m venv venv
@@ -48,6 +47,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 Then install dependencies:
 pip install -r requirements.txt
 
+
 3. Set Up Git LFS
 
 This project uses Git LFS for large files like the trained model:
@@ -55,7 +55,9 @@ This project uses Git LFS for large files like the trained model:
 git lfs install
 git lfs pull
 
+
 This will download the model.keras file.
+
 
 4. Run the App
 
