@@ -34,7 +34,8 @@ Additionally, I am actively working on hosting the app on a cloud platform to ma
 
 1. Clone the Repository
    
-git clone https://github.com/Manuel17410/Lemon.git
+git clone https://github.com/Manuel17410/Lemon-Leaf-Disease-Classification-A-CNN-Powered-WebApp-in-Docker
+
 cd Lemon
 
 2. Install Requirements
