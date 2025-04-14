@@ -32,13 +32,10 @@ Additionally, I am actively working on hosting the app on a cloud platform to ma
 
 ## How to run the website:
 
-1. Clone the Repository:
-   
-git clone https://github.com/Manuel17410/Lemon-Leaf-Disease-Classification-A-CNN-Powered-WebApp-in-Docker
-
-cd Lemon
+1. Download repository and then open it on VSC
 
 2. Install Requirements
+   
 Create a virtual environment (optional but recommended):
 
 python -m venv venv
