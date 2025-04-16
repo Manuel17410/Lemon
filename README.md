@@ -1,6 +1,6 @@
 # Lemon Leaf Disease Classification: A CNN Powered Web App in Docker
 
-The Lemon Leaf Disease Classification App is an innovative web application powered by a Convolutional Neural Network (CNN), deployed via Docker. This app enables users to upload an image of a lemon leaf and receive a classification of the leaf into one of the following categories:
+The Lemon Leaf Disease Classification App is a web application powered by a Convolutional Neural Network (CNN), deployed via Docker. This app enables users to upload an image of a lemon leaf and receive a classification of the leaf into one of the following categories:
 * Anthracnose
 * Bacterial Blight
 * Citrus Canker
